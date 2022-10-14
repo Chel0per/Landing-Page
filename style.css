@@ -160,13 +160,15 @@ body {
 }
 
 .button1 {
-    background-color: #0F7F12;
+    background-color: black;
     border-radius: 4px;
-    border-color: white;
+    border-color: #FF5912;
     font-size: 16px;
     padding: 12px;
     font-weight: 600;
+    color: #FF5912;
 }
+
 
 .button2 {
     background-color: #0F7F12;
